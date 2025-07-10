@@ -17,8 +17,8 @@ Senior Lead Machine Learning Engineer with 13+ years of experience in deploying 
 ### 📫 Connect With Me
 - 📍 Bengaluru, Karnataka
 - 💼 www.linkedin.com/in/devaraj-n-86ab3544
-- 💻 [GitHub URL]
-- ✉️ [dev7132@gmail.com]
+- 💻 https://github.com/dev7132
+- ✉️ dev7132@gmail.com
 
 ---
 
